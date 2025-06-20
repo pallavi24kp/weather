@@ -1,4 +1,4 @@
-const API_KEY = "<your_api_key>";
+const API_KEY = "<2bc5fc53196b3e4e62c83887e19d7b64>";
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 document.getElementById("getWeather").addEventListener("click", () => {
